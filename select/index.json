@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "Alam Mo Ba Girl",
+  "base_artist": "Hev Abi",
+  "createdAt": "2026-03-22T14:20:43.927647Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Alam Mo Ba Girl",
+      "artist": "Hev Abi",
+      "has_synced": true,
+      "path": "select/01_Alam_Mo_Ba_Girl_Hev_Abi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Alam Mo Ba Girl",
+      "artist": "Hev Abi",
+      "has_synced": true,
+      "path": "select/02_Alam_Mo_Ba_Girl_Hev_Abi.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Alam Mo Ba Girl",
+      "artist": "Hev Abi",
+      "has_synced": true,
+      "path": "select/03_Alam_Mo_Ba_Girl_Hev_Abi.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Alam Mo Ba Girl",
+      "artist": "Song, Hev Abi",
+      "has_synced": true,
+      "path": "select/04_Alam_Mo_Ba_Girl_Song,_Hev_Abi.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Alam Mo Ba Girl",
+      "artist": "Hev Abi",
+      "has_synced": true,
+      "path": "select/05_Alam_Mo_Ba_Girl_Hev_Abi.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Alam Mo Ba Girl - Hev Abi",
+      "artist": "Hev Abi",
+      "has_synced": true,
+      "path": "select/06_Alam_Mo_Ba_Girl_-_Hev_Abi_Hev_Abi.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Alam Mo Ba Girl - Live",
+      "artist": "Hev Abi",
+      "has_synced": false,
+      "path": "select/07_Alam_Mo_Ba_Girl_-_Live_Hev_Abi.txt"
+    }
+  ]
+}
