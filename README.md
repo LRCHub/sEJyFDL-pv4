@@ -1,0 +1,78 @@
+# Hev Abi – Alam Mo Ba Girl
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:00.40] 'Ge, go
+[00:03.90] 
+[00:07.19] Mamaya na 'ko uuwi (mamaya na 'ko uuwi)
+[00:10.95] At nagising ang erpat mo (kasi)
+[00:15.08] At hindi niya alam na nandito 'ko sa kuwarto mo
+[00:19.69] (Nandito 'ko sa kuwarto mo ngayon)
+[00:36.69] 
+[00:25.25] Yeah, uh, whoa, whoa (lahat ng mga hinahanap ko, sa 'yo natagpuan)
+[00:29.24] Alam mo ba, girl? (Alam mo ba, girl?)
+[00:31.64] Yeah, promise ako con-, yeah, uh (promise ako concern)
+[00:35.25] Yeah, alam mo ba, girl? (Baby, alam mo ba, girl?)
+[00:37.64] Dito, promise ako con- (promise ako concern)
+[00:41.78] Alam mo ba, girl? Yeah (alam mo, uh-uh, huh)
+[00:44.84] (Uh-uh, huh) yeah-yeah, whoa, uh
+[01:00.84] 
+[00:47.91] Alam mo ba, girl (alam mo)
+[00:49.37] Pagka wala ka dito, promise ako concern? (Promise)
+[00:52.22] 'Di ka nagre-reply, 'di mo pa 'ko ma-confirm (ano ba?)
+[00:55.52] Ayaw mo ba sa 'kin porke wala 'kong skrt, skrt? (Skrt)
+[00:58.44] O ayaw mo sa 'kin kasi ikaw mas older? (Uh-huh)
+[01:01.46] 'Di ko pa mabigay mga luho mo't order
+[01:04.37] Malas lang, 'ta mo nga 'tong hawak ko ngayon four pairs (ayos 'yan)
+[01:07.79] Ako batang kalye lang, kayo ay foreigners
+[01:10.48] Inalok kita ng Red Horse, sagot mo, "Okur" (okur)
+[01:34.98] 
+[01:14.32] Uh, kung alam mo lang
+[01:16.02] No'ng tinalikuran mo 'ko, muntik na 'kong mabuang (god damn)
+[01:18.98] Umabot sa 'kin bulsa mo sa likod kahit dalawang maliit na hakbang pagitan natin
+[01:24.08] At naramdaman ko ('tang ina mo, 'tang ina mo), yeah
+[01:26.60] Sana din naramdaman mo
+[01:28.20] Kahit na ano'ng pagsubok, handa 'ko sa katawan mo
+[01:31.36] Este, pangatawanan 'to, baby, 'di ako takot
+[01:34.13] Mahal kita, at 'di lang basta maharot (oh yeah, nakita ko 'yon)
+[02:05.63] 
+[01:37.16] Yeah, ayaw na kitang pakawalan
+[01:40.32] Lahat ng mga hinahanap ko, sa 'yo natagpuan
+[01:43.65] Baby, sana 'di mo ako maisantabi lang
+[01:48.15] Oh, kung alam mo lang
+[01:58.65] 
+[01:49.78] Baby, ayaw na kitang pakawalan
+[01:52.67] Lahat ng mga hinahanap ko, sa 'yo natagpuan
+[01:55.96] Baby, sana 'di mo ako maisantabi lang
+[02:00.57] Oh, kung alam mo lang
+[02:11.07] 
+[02:01.76] Alam mo ba, girl
+[02:03.12] Hindi ko maintindihan ang nararamdaman
+[02:05.81] Pagka 'yong nasa singit mo, dala ko palaman?
+[02:09.25] Nawawala 'yong angas at asta mong palaban
+[02:12.44] Tanggal ang kulit, amat umangat na naman
+[02:15.48] "Talbog na 'ko," 'ka ko, sagot mo, "Talaga lang"
+[02:18.65] 'Wag kang babalik ng may bulsang walang laman, huh?
+[02:21.69] 'Wag kang babalik ng amoy-galing gimikan
+[02:24.62] Tanggap kita, 'di ko lang maiwasang masaktan
+[02:46.62] 
+[02:27.48] 'Pag dumudulas sa isip ko na may iba ka diyan
+[02:30.53] Kahit 'di mo na 'ko saluhin, pero 'wag naman
+[02:33.88] Ganiyan, parang inaaning mo lang ako
+[02:36.16] Konting hiya naman diyan, huh?
+[02:39.03] At kung sa'n man 'to umabot, sana do'n ay 'di nakasimangot
+[02:42.87] Mga labi natin na nagpapang-abot
+[02:45.07] Sa gabi na mag-isa ka't nakabalot sa dilim
+[02:48.05] Mahal kita, at hindi na 'to palihim
+[03:05.55] 
+[02:51.66] Ayaw na kitang pakawalan (oh, ayaw na kita pakawalan)
+[02:54.26] Lahat ng mga hinahanap ko, sa 'yo natagpuan (sa 'yo natagpuan)
+[02:57.45] Baby, sana 'di mo ako maisantabi lang (maisantabi lang)
+[03:02.06] Oh, kung alam mo lang (oh)
+[03:15.06] 
+[03:03.62] Baby, ayaw na kitang pakawalan (ayaw na kitang pakawalan)
+[03:06.49] Lahat ng mga hinahanap ko, sa 'yo natagpuan (sa 'yo natagpuan)
+[03:09.63] Baby, sana 'di mo ako maisantabi lang ('santabi lang)
+[03:14.15] Oh, kung alam mo lang
+```
